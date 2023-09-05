@@ -37,7 +37,7 @@
                                     <input id="harga" type="harga" class="form-control" name="harga" value="">
                                 </td>
                                 <td>
-                                    <textarea id="keterangan" type="text" class="form-control" name="keterangan" rows="4"></textarea>
+                                    <textarea id="keterangan" type="text" class="form-control" name="keterangan" rows="4" placeholder="ukuran 2m x 2m, bahan kasar"></textarea>
                                 </td>
                                 <td>
                                     <input id="stok" type="stok" class="form-control" name="stok" value="">
